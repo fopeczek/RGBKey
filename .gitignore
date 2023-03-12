@@ -1,0 +1,7 @@
+*.png
+venv*/
+.ipynb_checkpoints
+[^/]*.egg-info/
+*.pyc
+*.zip
+.idea
